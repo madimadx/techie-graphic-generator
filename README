@@ -1,0 +1,30 @@
+Name: Madison Maddox
+
+Course: CPSC 4160
+
+Clemson Email Address: mmaddox@clemson.edu
+
+Project no: 2
+
+Project due date: Feb. 8, 2018
+
+Project description: (Also, what image did you draw?)
+
+In this project, I used SFL 2.0 to draw several shapes of different colors and render them in a 9:16
+window for a user. My project creates a yellow couch with a background of a blown up circle with a blue->red->blue
+gradient fill and has transparent bars throughout it at uniform intervals to give the circle a cooler look. In my opinion
+though, the coolest part of this is the "sound byte" looking two-color offset lines going across the top.
+It took a lot of trial and error for them to look like this, but they're my best attempt at random generation of a
+ sound byte -esque graphic. NO TWO offset pairs are ever the same!
+
+The easiest part of this project: Thanks to you providing some basic primative shape classes,
+I was able to get help by referencing some of your class structures and SDL usage.
+
+Problems that I had in completing this project:
+
+My biggest problem was getting the "sound byte" lines to
+look like sound bytes. It took a lot of trying different intervals and odds for when different aplitudes would
+be randomly chosen. It was a very enjoyable challenge though. I'm very happy with the end result.
+
+I really enjoyed this project in general. I shouldn't have put it off so long, but I feel that I came out
+with something I'm really happy about. Cheers!
